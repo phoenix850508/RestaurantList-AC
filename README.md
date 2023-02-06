@@ -17,10 +17,10 @@ the name of restaurant from the search bar, and even link to the map where the r
 ```
 npm install
 ```
-4. After installation, `enter`:
+4. After installation, in the same directory, `enter`:
 
 ```
-npm run start
+node app.js
 ```
 5. If you see this message, it means it's working successfully, `enter` the url in the browser
 ```
