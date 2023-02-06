@@ -1,6 +1,6 @@
 # RestaurantList-AC
 <img width="1501" alt="截圖 2023-02-06 下午12 03 57" src="https://user-images.githubusercontent.com/121414639/216881393-6f242392-20f8-4aca-90fe-1bb5042611fa.png">
-RestaurantList-AC is a micro-project that uses ==Template Engine== to showcase the restaurant pocket list from AC. You can view restaurant's details, search
+RestaurantList-AC is a micro-project that uses Template Engine to showcase the restaurant pocket list from AC. You can view restaurant's details, search
 the name of restaurant from the search bar, and even link to the map where the restaurant is located.
 
 ## Features
